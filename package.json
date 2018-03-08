@@ -5,6 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "vue": "https://github.com/vuejs/vue.git#2.0.0",
-    "dep1": "https://github.com/yesobo/yarn-issue-3296_dep1.git#1.0.0"
+    "unpublished": "https://github.com/yesobo/yarn-issue-3296_dep1.git#1.0.0"
   }
 }
